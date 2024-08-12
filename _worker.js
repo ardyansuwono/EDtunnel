@@ -865,4 +865,9 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 
 	return ผลลัพธ์.join('\n');
 }
+const cn_hostnames = [
+	'weibo.com',                // Weibo - A popular social media platform
+	'nonton.tipiku.biz.id',            // Baidu - The largest search engine in China
+
+];
 
